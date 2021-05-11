@@ -1,0 +1,10 @@
+{
+  "name": "docker-m1-node-argv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dmitry Shevchenko",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
